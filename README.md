@@ -59,4 +59,4 @@
 
           <div align="center">
             <img src="https://komarev.com/ghpvc/?username=pranti-tech&label=Profile%20Views&color=6A9FB5&style=flat" alt="pranti-tech" />
-          </div>div>
+          </div>
